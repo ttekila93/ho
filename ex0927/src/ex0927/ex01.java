@@ -33,7 +33,7 @@ public class ex01 {
 	            if(cnt > 0) {
 	               System.out.println("회원가입 성공!");
 	            }else {
-	               System.out.println("회원가입 실패...");
+	              
 	            }
 	            
 	         }else if(choice == 2) {
